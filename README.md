@@ -1,12 +1,12 @@
 # Uncovering Sales Potential: Leveraging Power BI and SQL for Data-driven Insights
 
-[![Project Demo](https://link.to.demo.video)](https://link.to.demo.video)
+[![Project Demo](https://link.to.demo.video)](https://drive.google.com/file/d/1tPS7zrIRl35W8U66oXJS0_1Q8av572xT/view?usp=drive_link).
+
 
 This project focuses on utilizing the power of Power BI and SQL to uncover valuable sales insights and drive data-driven decision-making. By leveraging advanced data analysis techniques, interactive dashboards, and reports, we aimed to identify trends, patterns, and opportunities for business growth within the sales domain.
 
 ## Key Contributions and Accomplishments
 
-- Led a data analysis project, collaborating with cross-functional teams to gain a deep understanding of the business requirements and objectives.
 - Extracted, transformed, and loaded large volumes of sales data into SQL databases, ensuring data integrity and reliability for analysis.
 - Developed interactive dashboards and visually appealing reports in Power BI, providing a user-friendly interface to explore and analyze key sales metrics.
 - Applied advanced data analysis techniques to uncover valuable insights, such as identifying top-selling products, analyzing customer behavior, and discovering untapped market segments.
